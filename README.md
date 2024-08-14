@@ -8,6 +8,7 @@ The user can copy the encrypted code from the application and use it according t
 
 ****************************
 
+
 **1. INTRODUCTION:-**
 In today’s era, virtual security is at par with physical security, as more of our work is transforming
 to digital means. Digital world provides us with way more opportunities and also a good amount
@@ -26,10 +27,11 @@ mechanical to electronic systems, so did the need to develop more efficient meth
 cryptanalyze them.
 The idea to develop an android based application, to perform encryption and decryption in
 accordance with symmetric key encryption technique is implemented here.
-**1.2 Objective**
 
+**1.2 Objective**
 • To encrypt a text message to some binary code, and also to decrypt the binary coded
 string which was encrypted through same algorithm as used in the application.
+
 • To provides us the idea of how the Cryptography has been used for everything from the
 Allied forces sending military messages back and forth during WW2 to Julius Ceaser
 using ciphers to send encrypted messages to his generals during ancient times.
