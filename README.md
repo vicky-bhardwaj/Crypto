@@ -29,6 +29,7 @@ The idea to develop an android based application, to perform encryption and decr
 accordance with symmetric key encryption technique is implemented here.
 
 **1.2 Objective**
+
 • To encrypt a text message to some binary code, and also to decrypt the binary coded
 string which was encrypted through same algorithm as used in the application.
 
